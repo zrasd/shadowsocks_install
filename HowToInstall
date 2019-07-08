@@ -122,7 +122,7 @@ https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
 使用方法
 使用root用户登录，运行以下命令：
 
-wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/zrasd/shadowsocks_install/master/ss-all.sh
+wget --no-check-certificate -O ss-all.sh https://raw.githubusercontent.com/zrasd/shadowsocks_install/master/ss-all.sh
 chmod +x ss-all.sh
 ./ss-all.sh 2>&1 | tee ss-all.log
 安装完成后，脚本提示如下
